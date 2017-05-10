@@ -3,7 +3,7 @@
 Yahoobot scrapy bot to download symbol data.
 
 # Usage
-
+> pip install requirements.txt
 > scrapy crawl yahoosymbols -o test.json
 
 # Example ouput
